@@ -1,0 +1,18 @@
+cpl_id: WC-PB-001
+title: WaveCounter Engineering Playbooks
+version: v1.0
+languages:
+  - EN
+  - RU
+status: fixed
+publication_type: consolidated_playbooks
+
+fixation:
+  date: 2026-02-05
+  scope: editorial_consolidation
+  change_policy: read-only
+
+notes:
+  - PB-1 through PB-5 consolidated verbatim
+  - No canonical logic modified
+  - No applied logic added
