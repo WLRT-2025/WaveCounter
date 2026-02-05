@@ -1,0 +1,16 @@
+object: WaveCounter Engineering Playbooks
+version: v1.0
+status: fixed
+languages:
+  - EN
+  - RU
+type: consolidated_playbooks
+
+contents:
+  - PB-1: Structural Awareness
+  - PB-2: Constraint-Based Trading
+  - PB-3: Signal Gating
+  - PB-4: Strategy Design Substrate
+  - PB-5: Automation & Event-Driven Systems
+
+change_policy: read-only
