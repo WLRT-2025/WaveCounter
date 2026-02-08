@@ -33,6 +33,16 @@ Current publications include:
     - Version: v1.0
     - Language: RU (canonical)
     - Status: FROZEN
-    - 
+     ## Publications
+
+### WLRT A.D.E — Trading Strategies & Liquidity Management (RU)
+
+- **Version:** v1.0  
+- **Status:** FROZEN (Canonical)  
+- **Release:** WaveCounter Playbooks — WLRT A.D.E (RU) v1.0  
+- **Access:** GitHub Releases (PDF)
+
+This document defines the admissible strategy space, structural execution regimes, and liquidity pool behavior under the WLRT A.D.E framework.
+
 ## License
 License information will be provided with each publication pack.
