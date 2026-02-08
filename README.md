@@ -22,5 +22,17 @@ Any operational, strategic, or executional decisions are external to WaveCounter
 This repository serves as a canonical publication space.
 Materials are added only through explicit versioned publication packs.
 
+## Publications
+
+Canonical WaveCounter materials are published as versioned, read-only publication packs.
+
+Current publications include:
+
+- `publication/playbooks/`
+  - **WLRT A.D.E — Trading Strategies & Liquidity Management**
+    - Version: v1.0
+    - Language: RU (canonical)
+    - Status: FROZEN
+    - 
 ## License
 License information will be provided with each publication pack.
