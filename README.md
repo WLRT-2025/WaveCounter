@@ -46,3 +46,9 @@ This document defines the admissible strategy space, structural execution regime
 
 ## License
 License information will be provided with each publication pack.
+
+## Applied Objects
+
+- **WaveCounter™ Liquidity Pool Management System (LPM)**  
+  Canonical applied framework for structural management of liquidity pools based on WLRT.  
+  See: `publication/liquidity-pool-management/`
