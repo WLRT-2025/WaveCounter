@@ -1,5 +1,7 @@
 # WaveCounter™ Liquidity Pool Management System (LPM)
 
+DOI: https://doi.org/10.5281/zenodo.19437098
+
 Canonical applied framework for structural management of liquidity pools under the WaveCounter™ brand.
 
 This object is based on WLRT and developed as a universal pool management system not limited to BitCapital.
