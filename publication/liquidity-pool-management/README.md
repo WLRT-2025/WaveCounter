@@ -12,3 +12,4 @@ Files:
 - WaveCounter_LPM_Object_Notice_v1.0.md
  - WaveCounter_LPM_Principles_v1.0.md
 - WaveCounter_LPM_Operator_Protocol_v1.0.md
+- WaveCounter_LPM_Client_Overview_v1.0.md
