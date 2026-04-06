@@ -51,4 +51,5 @@ License information will be provided with each publication pack.
 
 - **WaveCounter™ Liquidity Pool Management System (LPM)**  
   Canonical applied framework for structural management of liquidity pools based on WLRT.  
+  DOI: https://doi.org/10.5281/zenodo.19437098  
   See: `publication/liquidity-pool-management/`
