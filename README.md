@@ -53,3 +53,8 @@ License information will be provided with each publication pack.
   Canonical applied framework for structural management of liquidity pools based on WLRT.  
   DOI: https://doi.org/10.5281/zenodo.19437098  
   See: `publication/liquidity-pool-management/`
+
+  ### Related applied implementation
+
+BitCapital documents the applied implementation and internal research layer built around WLRT / WaveCounter-oriented structural liquidity work. See [BitCapital](https://github.com/WLRT-2025/BitCapital) for the BitCapital Research Pool, related policy materials, and public documentation of the applied research environment.
+
